@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahmoudAliEid
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Front-End Developing
+- 🌱 I’m currently learning more about web Developing
 
 
 <!---
