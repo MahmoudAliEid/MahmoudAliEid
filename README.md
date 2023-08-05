@@ -39,7 +39,7 @@ Have a question or want to discuss anything related to web development or softwa
 
 📫 Email: [Mahmoud Ali](mailto:alim4697@gmail.com)
 
-🔥 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/mahmoud-ali](https://www.linkedin.com/in/mahmoud-ali-69a5a3190/))
+🔥 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/mahmoud-ali-69a5a3190/])
 
 
 
