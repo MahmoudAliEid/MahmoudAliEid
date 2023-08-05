@@ -13,7 +13,7 @@ As a fullstack developer, I have hands-on experience in the following technologi
 - ReactJS
 - Redux
 - Bootstrap
-- SASS/SCSS
+- Tailwind
 
 ### Backend
 - Node.js
@@ -37,9 +37,9 @@ I am a firm believer in the power of collaboration and open-source contributions
 
 Have a question or want to discuss anything related to web development or software engineering? I'd love to chat! Feel free to reach out to me anytime.
 
-📫 Email: [your.email@example.com](mailto:your.email@example.com)
+📫 Email: [Mahmoud Ali](mailto:alim4697@gmail.com)
 
-🔥 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mahmoud-ali)
+🔥 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/mahmoud-ali](https://www.linkedin.com/in/mahmoud-ali-69a5a3190/))
 
 
 
@@ -54,11 +54,11 @@ Here are some of the technologies and tools I frequently work with:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAliEid&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## Language Usage
 
-![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAliEid&layout=compact&theme=radical)
 
 Thank you for visiting my GitHub profile. Let's create amazing things together! 😄
 
