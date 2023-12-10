@@ -11,6 +11,7 @@ As a fullstack developer, I have hands-on experience in the following technologi
 - CSS3
 - JavaScript
 - ReactJS
+- NextJS
 - Redux
 - Bootstrap
 - Tailwind
