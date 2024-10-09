@@ -2,7 +2,7 @@
   <h1 style="background: linear-gradient(90deg, #00c6ff, #0072ff); color: transparent; -webkit-background-clip: text; font-size: 3em;">
     Mahmoud Ali - Fullstack Developer
   </h1>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdpbDNtZzR3ZDRvM2Q3cjZ0enk2MDhneW1razNhOWFiM2tlOHJobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKpFNyDtAFoQ2eqfFQ/giphy.gif" alt="Coding GIF" width="500"/>
+  <img src="https://media.giphy.com/media/zqihZZ5Qny4q4/giphy.gif?cid=ecf05e47ca905l0n3ycxpp8yugnj5ywhr9dniszcrkddjvmi&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coding GIF" width="500"/>
 </div>
 
 ---
