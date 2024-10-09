@@ -2,7 +2,6 @@
   <h1 style="background: linear-gradient(90deg, #00c6ff, #0072ff); color: transparent; -webkit-background-clip: text; font-size: 3em;">
     Mahmoud Ali - Fullstack Developer
   </h1>
-  
 </div>
 
 ---
