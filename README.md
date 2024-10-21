@@ -24,6 +24,7 @@ As a fullstack developer, I have hands-on experience with:
 - Redux
 - Bootstrap
 - TailwindCSS
+- Material UI
 
 ### Backend
 - Node.js
@@ -56,7 +57,7 @@ Do you have a question or want to discuss web development or software engineerin
 
 Here are some technologies and tools I frequently work with:
 
-![Technologies](https://skillicons.dev/icons?i=js,nodejs,react,mongodb,mysql,postgres,html,css,bootstrap,tailwind,sass,git,github)
+![Technologies](https://skillicons.dev/icons?i=js,nodejs,react,mongodb,mysql,postgres,html,css,bootstrap,tailwind,sass,git,github,material-ui)
 
 ---
 
